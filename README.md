@@ -1,1 +1,1 @@
-# Ecternal-Event-Management-System
+# External-Event-Management-System
